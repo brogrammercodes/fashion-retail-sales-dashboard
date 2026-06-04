@@ -1,0 +1,13 @@
+# Office / Excel temporary lock files
+~$*.xlsx
+~$*.xls
+*.tmp
+
+# Power BI temp / cache
+*.pbix.tmp
+
+# OS files
+Thumbs.db
+ehthumbs.db
+desktop.ini
+.DS_Store
